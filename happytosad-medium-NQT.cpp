@@ -36,3 +36,13 @@ int main(){
     }
     cout<<"Happy: "<<happyS<<" Sad: "<<sadS;
 }
+
+/*
+OUTPUT EX-1:
+100
+H  30 S 70
+H  44 S 56
+H  41 S 58
+H  41 S 57
+Happy: 41 Sad: 57 
+*/
