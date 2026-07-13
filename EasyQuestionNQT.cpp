@@ -37,6 +37,7 @@ A--N--S;
     int n;
     cin>>n;
     int First=5, Second=6;
+    cout<<First<<" "<<Second<<" ";
     long long sum=0;
     for(int i=0;i<n;i++){
       sum=First+Second;
@@ -48,5 +49,5 @@ A--N--S;
   }
 /*o/P->
 5
-11 17 28 45 73  */
+5 6 11 17 28 45 73  */
 
